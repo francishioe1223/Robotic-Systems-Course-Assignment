@@ -1,6 +1,6 @@
 # Robotics Systems Coursework
 
-This repository contains my coursework submissions for the **Robotics Systems** module as part of my Robotics MSc program. The coursework demonstrates practical implementation of autonomous robotics systems using Arduino-based platforms.
+This repository contains my coursework submissions for the **Robotics Systems** module in the Robotics MSc program at the University of Bristol.. The coursework demonstrates practical implementation of autonomous robotics systems using Arduino-based platforms.
 
 ## Project Overview
 
