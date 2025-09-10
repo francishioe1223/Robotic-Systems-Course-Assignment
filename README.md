@@ -22,7 +22,7 @@ This assignment demonstrates practical implementation and programming of autonom
 │   │   ├── Magnetometer.h             # 3-axis magnetometer interface
 │   │   ├── Kinematics.h               # Robot kinematics and odometry
 │   │   └── Encoders.h                 # Quadrature encoder handling
-│   └── Robotics System Assignment 1.mov # Video demonstration
+│   └── Robotics System Assignment 1.mp4 # Video demonstration
 └── Assignment2/                       # Source code 
     ├── Baseline/                   # Basic box pushing implementation
     │   ├── Baseline.ino           # Main program
