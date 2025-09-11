@@ -1,4 +1,4 @@
-# Robotics Systems Coursework
+# Robotics Systems: "Embedded Robotics: Multi-Sensor Autonomous Navigation Systems"
 
 This repository contains my coursework submissions for the **Robotics Systems** module in the Robotics MSc program at the University of Bristol. The coursework demonstrates practical implementation of autonomous robotics systems using Arduino-based platforms.
 
